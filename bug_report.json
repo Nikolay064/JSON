@@ -1,1 +1,9 @@
-
+{
+  "id": 001,
+  "Summary": "Summary",
+  "Description": "Description",
+  "Step to reproduce": "Step to reproduce",
+  "Severity": "severity",
+  "Priority": "priority",
+  "Comments": "Comments"
+}
